@@ -10,7 +10,7 @@
 # - making a donation: https://paypal.me/blocklistproject
 # -------------------------------------[INFO]---------------------------------------
 # 
-# Adobe list but i removed s3.amazonaws.com because it broke websites silly
+# Adobe list but i remove things incrementally because this breaks websites silly
 # ------------------------------------[FILTERS]-------------------------------------
 0.0.0.0 #cdn-ffc.oobesaas.adobe.com/*
 0.0.0.0 3dns-3.adobe.com
